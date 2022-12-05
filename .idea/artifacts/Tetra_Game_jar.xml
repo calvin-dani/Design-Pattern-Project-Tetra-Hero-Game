@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tetra Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tetra_Game_jar</output-path>
+    <root id="archive" name="Tetra Game.jar">
+      <element id="module-output" name="Tetra Game" />
+    </root>
+  </artifact>
+</component>
